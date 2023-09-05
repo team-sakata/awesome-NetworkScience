@@ -1,5 +1,14 @@
 # awesome-NetworkScience
 A curated list of awesome resources for research about **network science**. it includes lot of useful libraries and on-going conferences.
+
+## 資料
+輪読会管理_2023
+https://docs.google.com/spreadsheets/u/1/d/14l06u6ZnNlGmUVBaVcLR_RmP8SCe6-kdzUE37Ad-qtk/edit#gid=0
+輪読会_乱読_network-science
+https://docs.google.com/presentation/d/1iFKqdOonanf9Cz7_X1GSVLVEBtFJo1h_NptXVHRzR7w/edit?usp=sharing
+ドライブ
+https://drive.google.com/drive/folders/1ZpwDmMW1ZvgoH3laSUcLFHecIfOV0YnI
+
 ## Conferences, Journals
 - [netSci](https://netscix2024.netscisociety.org/) - International School and Conference on Network Science
 - [Complex Networks](http://www.complexnetworks.org/)

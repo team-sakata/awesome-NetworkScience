@@ -58,12 +58,12 @@ A curated list of awesome resources for research about **network science**. it i
 - [Modeling Users' Activity on Twitter Networks: Validation of Dunbar's Number](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0022656) 
 
 ## Researchers
-[Luís A. Nunes Amaral](https://amaral.northwestern.edu/people/amaral/) Northwestern University USA
-[Manuel Cebrian](https://www.mpib-berlin.mpg.de/staff/manuel-cebrian) Max Planck Institute for Human Development Germany
-[Shlomo Havlin](https://havlin.ph.biu.ac.il/) Bar-Ilan University in Israel
-[Giulia Iori](https://www.city.ac.uk/about/people/academics/giulia-iori) City, University of London UK
-[Melanie Mitchell](https://melaniemitchell.me/) Santa Fe Institute USA
-[Ricard Solé](http://complex.upf.edu/ricard-sol%C3%A9) Universitat Pompeu Fabra Spain
+- [Luís A. Nunes Amaral](https://amaral.northwestern.edu/people/amaral/) Northwestern University USA - 
+- [Manuel Cebrian](https://scholar.google.ca/citations?user=ZkBTPkUAAAAJ&hl=en) Max Planck Institute for Human Development Germany - Community, human interaction
+- [Shlomo Havlin](https://havlin.ph.biu.ac.il/) Bar-Ilan University in Israel - 
+- [Giulia Iori](https://www.city.ac.uk/about/people/academics/giulia-iori) City, University of London UK
+- [Melanie Mitchell](https://melaniemitchell.me/) Santa Fe Institute USA
+- [Ricard Solé](http://complex.upf.edu/ricard-sol%C3%A9) Universitat Pompeu Fabra Spain
 
 
 ## misc
